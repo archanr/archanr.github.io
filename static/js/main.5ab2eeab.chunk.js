@@ -116,15 +116,15 @@
                             }, a.createElement("p", null, a.createElement("b", null, "Resume: "), a.createElement("a", {
                                 href: "https://drive.google.com/file/d/1kBDY7M3pyUyqX18ktX5q0GY3OE3F_AlD/view?usp=sharing",
                                 target: "_blank"
-                            }, "Visit")), a.createElement("p", null, a.createElement("b", null, "Email: "), a.createElement("a", {
-                                href: "mailto:archanrupela@outlook.com"
-                            }, "archanrupela@outlook.com")), a.createElement("p", null, a.createElement("b", null, "LinkedIn: "), a.createElement("a", {
+                            }, "Visit")), a.createElement("p", null, a.createElement("b", null, "LinkedIn: "), a.createElement("a", {
                                 href: "https://www.linkedin.com/in/archanrupela",
                                 target: "_blank"
-                            }, "Visit"), a.createElement("p", null, a.createElement("b", null, "GitHub: "), a.createElement("a", {
+                            }, "Visit")), a.createElement("p", null, a.createElement("b", null, "GitHub: "), a.createElement("a", {
                                 href: "https://github.com/archanr",
                                 target: "_blank"
-                            }, "Visit")))), a.createElement("div", {
+                            }, "Visit"))), a.createElement("p", null, a.createElement("b", null, "Email: "), a.createElement("a", {
+                                href: "mailto:archanrupela@outlook.com"
+                            }, "archanrupela@outlook.com")), a.createElement("div", {
                                 className: "showContactMe"
                             }, a.createElement("span", null, "\u279c ~ "), " ", a.createElement("span", {
                                 className: "blinking_cursor_contact"
