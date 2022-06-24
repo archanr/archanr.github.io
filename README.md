@@ -1,6 +1,6 @@
 # Built app for personal landing page
 
-## Created by Archan Rupela | Last Updated June 2020
+## Created by Archan Rupela | Last Updated June 2022
 ## Created using HTML, CSS, and JavaScript with React Library
 
 #### View:
